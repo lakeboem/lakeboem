@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# Hi, I'm LUN DEV! 👋
+
+Hello everyone, I'm Lun Dev, from Vietnam 🇻🇳.
+As a web Designer and Developer, I built a youtube channel Lun Dev to share my experiences with everyone.
+If you have watched it and found it useful, please subscribe to the channel to support me.
+Thank you very much
 
 <!--
 **lakeboem/lakeboem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
